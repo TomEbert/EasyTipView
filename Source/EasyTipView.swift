@@ -69,6 +69,10 @@ public extension EasyTipView {
     
     // MARK:- Instance methods -
     
+    public func test(){
+        print("test")
+    }
+    
     /**
      Presents an EasyTipView pointing to a particular UIBarItem instance within the specified superview
      
