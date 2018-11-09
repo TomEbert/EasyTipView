@@ -70,7 +70,7 @@ public extension EasyTipView {
     // MARK:- Instance methods -
     
     public func test(){
-        print("test")
+        print("test🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧🔧")
     }
     
     /**
